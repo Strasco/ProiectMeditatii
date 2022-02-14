@@ -1,0 +1,8 @@
+C:\Users\Windows 10\source\repos\ProiectMeditatii\ProiectMeditatii\bin\Debug\ProiectMeditatii.exe.config
+C:\Users\Windows 10\source\repos\ProiectMeditatii\ProiectMeditatii\bin\Debug\ProiectMeditatii.exe
+C:\Users\Windows 10\source\repos\ProiectMeditatii\ProiectMeditatii\bin\Debug\ProiectMeditatii.pdb
+C:\Users\Windows 10\source\repos\ProiectMeditatii\ProiectMeditatii\obj\Debug\ProiectMeditatii.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\ProiectMeditatii\ProiectMeditatii\obj\Debug\ProiectMeditatii.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\source\repos\ProiectMeditatii\ProiectMeditatii\obj\Debug\ProiectMeditatii.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\ProiectMeditatii\ProiectMeditatii\obj\Debug\ProiectMeditatii.exe
+C:\Users\Windows 10\source\repos\ProiectMeditatii\ProiectMeditatii\obj\Debug\ProiectMeditatii.pdb
